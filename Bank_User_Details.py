@@ -1,5 +1,5 @@
    	
- #!/usr/bin/env python
+
 #creating dictionary
 bankAccount=dict()
 #class student mad here
